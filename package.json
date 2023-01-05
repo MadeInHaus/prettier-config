@@ -1,9 +1,10 @@
 {
   "name": "@madeinhaus/prettier-config",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Prettier config",
   "main": "index.json",
   "repository": "git@github.com:MadeInHaus/prettier-config.git",
   "author": "Ryan Couse <ryan@madeinhaus.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "keywords": ["haus", "prettier", "prettierrc"]
 }
